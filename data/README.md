@@ -10,4 +10,4 @@
 | `tracked_brands_named_in_order` | Which of the 9 tracked brands in that category the answer named, in order of first mention |
 | `cited_domains` | Domains the answer cited as sources |
 
-Write-up and limits: https://dev.to/wisekit. Collected with the [AI Visibility Tracker](https://apify.com/wisekit/ai-search-visibility-tracker) (disclosure: we built it). One run on one day; AI answers vary between runs. CC BY 4.0: reuse it freely with a link back.
+Write-up and limits: https://dev.to/wisekit/we-asked-chatgpt-perplexity-and-gemini-which-software-to-buy-heres-who-they-named-first-4e04 Collected with the [AI Visibility Tracker](https://apify.com/wisekit/ai-search-visibility-tracker) (disclosure: we built it). One run on one day; AI answers vary between runs. CC BY 4.0: reuse it freely with a link back.
